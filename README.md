@@ -1,5 +1,7 @@
 # house-price-prediction
 INTERNID - CITS7524
+
+
 🏠 House Price Prediction using Machine Learning
 A Machine Learning project that predicts house prices based on various property features such as area, number of bedrooms, bathrooms, floors, and other house-related attributes. The model is trained using Linear Regression and deployed with Streamlit for an interactive web interface.
 
